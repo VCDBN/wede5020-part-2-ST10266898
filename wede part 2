@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Humanitarian Aid</title>
+  <style>
+    /* Global styles */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Navigation styles */
+    nav {
+      background-color: #333;
+      padding: 10px;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    /* Header styles */
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+
+    header img {
+      max-width: 200px;
+    }
+
+    /* Hero image styles */
+    #hero-image {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #hero-image img {
+      max-width: 100%;
+    }
+
+    /* Summary styles */
+    #summary {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #summary h2 {
+      font-size: 24px;
+      color: #333;
+    }
+
+    #summary p {
+      font-size: 16px;
+      color: #666;
+    }
+
+    /* Approach styles */
+    #approach {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #approach h2 {
+      font-size: 24px;
+      color: #333;
+    }
+
+    #approach p {
+      font-size: 16px;
+      color: #666;
+    }
+
+    /* Projects styles */
+    #projects {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #projects h2 {
+      font-size: 24px;
+      color: #333;
+    }
+
+    #projects ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    #projects li {
+      font-size: 16px;
+      color: #666;
+      margin: 10px 0;
+    }
+
+    /* Contact info styles */
+    #contact-info {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    #contact-info h2 {
+      font-size: 24px;
+      color: #333;
+    }
+
+    #contact-info p {
+      font-size: 16px;
+      color: #666;
+      margin: 5px 0;
+    }
+
+    /* Footer styles */
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <img src="logo.png" alt="Logo">
+    <h1>Providing Hope and Assistance Worldwide</h1>
+  </header>
+
+  <section id="hero-image">
+    <img src="hero.jpg" alt="Hero Image">
+    <p>A child receiving aid in a crisis-stricken region</p>
+  </section>
+
+  <section id="summary">
+    <h2>Main Activities</h2>
+    <p>We provide emergency relief, medical assistance, and long-term support to communities affected by disasters and conflicts worldwide. Our efforts focus on improving access to food, water, healthcare, and education.</p>
+  </section>
+
+  <section id="approach">
+    <h2>Our Approach</h2>
+    <p>Our approach is rooted in collaboration and sustainability. We work closely with local communities, partner organizations, and governments to ensure that our aid reaches those in need effectively and efficiently. We prioritize long-term solutions, striving to empower communities and build resilience against future crises.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Current Projects</h2>
+    <ul>
+      <li><strong>Project 1:</strong> Providing clean water to rural areas</li>
+      <li><strong>Project 2:</strong> Building schools and promoting education</li>
+      <li><strong>Project 3:</strong> Medical outreach in conflict zones</li>
+      <li><strong>Project 4:</strong> Food assistance for vulnerable populations</li>
+    </ul>
+  </section>
+
+  <section id="contact-info">
+    <h2>Contact Information</h2>
+    <p>Email: info@globalaid.org</p>
+    <p>Phone: +1 123-456-7890</p>
+    <p>Address: 123 Main Street, City, Country</p>
+  </section>
+
+  <footer>
+    &copy; 
+  </footer>
+</body>
+</html>
